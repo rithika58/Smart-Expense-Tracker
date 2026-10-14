@@ -1,0 +1,18 @@
+# Environment secrets
+.env
+.env.*
+!.env.example
+
+# React frontend
+expense-tracker-frontend/node_modules/
+expense-tracker-frontend/dist/
+
+# Spring Boot backend
+expense-tracker/target/
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log

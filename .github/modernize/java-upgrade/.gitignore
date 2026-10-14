@@ -1,0 +1,16 @@
+# Java / Maven
+target/
+
+# React / Node
+node_modules/
+dist/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# IDE
+.vscode/
+.idea/
+
